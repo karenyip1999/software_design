@@ -25,10 +25,10 @@ The `bottom up` approach takes the approach of creating methods individually and
 
 `Object Oriented Design` is a bottom up approach.
 
+## Class diagrams
 
+Class diagrams are blueprints of the system as they help plan out how everything fits together. It can model classes, relationships between classes, and describes what each class can do.
 
-
-
-
+Class diagrams greatly benefit Object Oriented Design.
 
 
