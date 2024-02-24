@@ -1,17 +1,34 @@
 # **Software Design**
 
-### Coupling and cohesion in structured design
-Coupling and cohesion are used to measure the standard of "good" programming. 
+## Coupling and cohesion in structured design
+`Coupling` and `cohesion` are used to measure the standard of "good" programming. 
 
-Coupling measures how closely connected classes are with each other and their level of interdependence.
+`Coupling` measures how closely connected classes are with each other and their level of interdependence.
 
 High coupling means changes in one class will affect other classes. Low coupling means classes are independent of one another so changes in one class wil have little impact on others.
 
-Cohesion refers to a class or a method having one single well defined pupose.
+`Cohesion` refers to a class or a method having one single well defined pupose.
 
 High cohesion means a class or a method has one single purpose and are closely related. Low cohesion means they serve multiple purposes and are loosely related.
 
 The goal is to have low coupling and high cohesion.
+
+## Top- down and bottom- up design
+
+The `top down` approach takes a big problem, or large algorithm and breaks it down into smaller methods in a process called `Modularisation`.
+
+The `bottom up` approach takes the approach of creating methods individually and integrating them all together to create the full algorithm. 
+
+`Structured Design` would be a top down approach.
+
+`Function Oriented Design` is a top down approach.
+
+`Object Oriented Design` is a bottom up approach.
+
+
+
+
+
 
 
 
