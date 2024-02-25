@@ -42,3 +42,14 @@ Eg: Can drive a car without knowing how an internal combustion engine works.
 
 `Polymorphism -` Allowing an object to take on many forms.
 Eg: Dog extends Mammal can take on 4 legs property but can also have it's own method for making its own noise.
+
+## Strategy pattern
+
+Behaviours are separated from the object, allowing the object's behaviour to be changed at run time.
+
+The implementation of this in an Object Oriented system follows the practise of programming to an interface, single responsibility of classes and open for extension but closed for modification rule.
+
+The implementation of this in a Functional system doesn't use interfaces or different classes as higher order functions can be implemented instead.
+
+
+
