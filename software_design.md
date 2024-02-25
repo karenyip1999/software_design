@@ -27,8 +27,18 @@ The `bottom up` approach takes the approach of creating methods individually and
 
 ## Class diagrams
 
-Class diagrams are blueprints of the system as they help plan out how everything fits together. It can model classes, relationships between classes, and describes what each class can do.
+`Class diagrams` are blueprints of the system as they help plan out how everything fits together. It can model classes, relationships between classes, and describes what each class can do.
 
 Class diagrams greatly benefit Object Oriented Design.
 
+## The 4 pillars of Object Oriented Progamming
 
+`Abstraction -` The process of hiding unwanted information so when calling upon the method, you do not need to know exactly what it is doing.
+Eg: Can drive a car without knowing how an internal combustion engine works.
+
+`Encapsulation -` The process of removing access to parts of the system by making properties private so an object can control its own state.
+
+`Inheritance -` The process of allowing an object to take on the properties or methods of another object.
+
+`Polymorphism -` Allowing an object to take on many forms.
+Eg: Dog extends Mammal can take on 4 legs property but can also have it's own method for making its own noise.
