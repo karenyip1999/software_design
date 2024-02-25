@@ -51,5 +51,8 @@ The implementation of this in an Object Oriented system follows the practise of 
 
 The implementation of this in a Functional system doesn't use interfaces or different classes as higher order functions can be implemented instead.
 
+---
 
+#### Question: Imagine your is creating a new online payment system. In order to gain maximum market share it can't be tied to a particular sector - it needs to work just as well when ordering a takeaway as when buying a new coat. Which design methodology would you suggest following? 
 
+I would choose an Object Oriented design as through inheritance, this allows for reusability of code. Through encapsulation to make properties private, these can be reused from ordering a takeaway to buying a new coat as the principles of purchasing stay the same, but the object being purchased will be different.
